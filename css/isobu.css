@@ -1,0 +1,105 @@
+
+#body{
+    font-family: 'Roboto';font-size: 22px;
+    text-decoration: none;
+    background-color: #000000fe;
+    /* padding: 0;
+    margin: 0; */
+    /* width: 100%; */
+}
+
+.back {
+
+    background-color: #280129;
+    margin: 1rem;
+    
+     
+
+}
+.border1{
+
+    border: solid 3px rgb(16, 92, 1);
+    border-radius: 5%;
+} 
+
+.titre1 {
+
+    color: rgb(255, 234, 0);
+
+}
+#header img {
+
+    border-radius: 5%;
+    border: solid 3px rgb(16, 92, 1);
+
+}
+.navbar-brand{
+
+color: rgb(185, 0, 0);
+
+}
+.nav-link {
+
+    color: rgb(16, 92, 1);
+
+    
+}
+
+main {
+    
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+#spec { 
+    color:rgb(16, 92, 1);
+    display: flex;
+    justify-content: space-around;
+    
+    
+
+}
+
+#description {
+    margin-top: 5vh;
+
+}
+
+#img {
+
+    border-radius: 5%;
+    height: 50vh;
+
+} 
+h3 
+{
+    color: rgb(179, 7, 7);
+    text-align: center;
+    margin: 2rem;
+}
+#para {
+    color: rgb(16, 92, 1);
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 4rem;
+
+}
+
+#galerie {
+
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 3vh;
+}
+
+#galerie img {
+    width: 45%;
+    border-radius: 5%;
+
+}
+
+.video{
+    height: 45vh;
+    text-align: center;
+    
+    
+    }

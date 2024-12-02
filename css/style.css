@@ -1,0 +1,104 @@
+
+#body{
+    font-family: 'Roboto';font-size: 22px;
+    text-decoration: none;
+    background-color: #000000;
+    /* padding: 0;
+    margin: 0; */
+    /* width: 100%; */
+}
+
+.back {
+
+    background-color: #b75200;
+    margin: 1rem;
+    
+     
+
+}
+.border1 {
+
+    border: solid 3px rgb(174, 32, 0);
+    border-radius: 5%;
+} 
+
+.titre1 {
+
+    color: rgb(173, 0, 0);
+
+}
+
+.titre2 {
+
+  color:black;
+
+}
+
+#header img {
+
+    border-radius: 5%;
+    
+}
+.navbar-brand {
+
+color: rgb(174, 0, 0);
+
+}
+.nav-link {
+
+    color: rgb(173, 0, 0);
+
+}
+
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-around;
+}
+
+main img{
+    /* padding: 0.5rem; */
+    margin-top: 1vh;
+    width: 90%;
+    border-radius: 3%;
+}
+
+a {
+text-decoration: none;
+color: #fb6d00;
+
+}
+
+
+.Cards {
+    
+    font-weight: 800;
+    font-size: 3vh;
+    border:solid rgb(174, 32, 0) 3px;
+    text-align: center;
+    color: #d36f04;
+    margin: 1rem;
+    border-radius: 5%;
+    width: 30%;
+    background-color: black;
+    
+    }
+
+    .Cards:hover{
+
+       
+        color: black;
+        background-color:#b75200;
+        border:solid #cb0000  3px;
+        transition: 1s;
+        
+    }
+    a:hover {
+        color: #000000;
+
+    }
+    
+
+    

@@ -1,0 +1,132 @@
+
+#body{
+    font-family: 'Roboto';font-size: 22px;
+    text-decoration: none;
+    background-color: #000000;
+    /* padding: 0;
+    margin: 0; */
+    /* width: 100%; */
+}
+
+.back {
+
+    background-color: #b75200;
+    margin: 1rem;
+    
+     
+
+}
+.border1 {
+
+    border: solid 3px rgb(174, 32, 0);
+    border-radius: 5%;
+} 
+
+.titre1 {
+
+    color: rgb(173, 0, 0);
+
+}
+
+.titre2 {
+
+  color:black;
+
+}
+
+#header img {
+
+    border-radius: 5%;
+    
+}
+.navbar-brand {
+
+color: rgb(174, 0, 0);
+
+}
+.nav-link {
+
+    color: rgb(173, 0, 0);
+
+    
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-around;
+    
+}
+
+main .Cards iframe{
+    /* border:solid #a60000 2px; */
+    width:90%;
+    border-radius: 3%;
+   
+    padding: 1%;
+}
+
+a {
+    text-decoration: none;
+    color: #fb6d00;
+
+}
+p{
+    margin-top:1vh
+
+}
+
+.Cards {
+    
+    
+    
+    font-weight: 800;
+    font-size: 1.2rem;
+    border:solid rgb(174, 32, 0) 2px;
+    text-align: center;
+    color: #d36f04;
+    border-radius: 5%;
+    width: 45%;
+    background-color: rgb(0, 0, 0);
+    padding-top: 1vh;
+    
+    }
+
+    .Cards:hover{
+
+       
+        
+        font-weight: 800;
+        color:black;
+        background-color: #b75200;
+        border:solid #cb0000  3px;
+        transition: 1s;
+        
+    }
+    a:hover {
+        color: #000000;
+
+    }
+     .container {
+
+        border: solid 2px rgb(174, 32, 0);
+        margin: 5rem;
+        text-align: center;
+        color: #b75200;
+        border-radius: 10%;
+        
+
+     }
+
+     .question{
+
+        padding: 3rem;
+        
+     }
+
+     .btn{
+
+        color: #cb0000;
+     }
+
+     
